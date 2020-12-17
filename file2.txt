@@ -1,2 +1,7 @@
 "Now I am doing some new changes in this files"
+<<<<<<< HEAD
 "i wrote omething here previously which is not here now"
+=======
+"we are learning about branches"
+"learning git"
+>>>>>>> gitlearning
